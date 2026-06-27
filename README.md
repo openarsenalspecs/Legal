@@ -22,7 +22,7 @@ Within this structure, a Specification Branding License may be negotiated for de
 ## Governance & Legal Specs:
 
 - **Human Intent Governance Standard (HIGS)**  
-[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/) 
+[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)   
   Structured governance framework for AI systems enforcing verified human intent, policy constraints, legal compliance checks, risk assessment, and full auditability with intent engines, approval checkpoints, and explainable outputs.
 
 - **No Lock-In Compliance Standard (NLCS v1.0)**  
