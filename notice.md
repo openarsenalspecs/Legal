@@ -6,7 +6,7 @@
 This file tracks contributors and their specific contributions to the project.
 
 - **Roxanne Ardary**, **[roxanneardary.com](https://www.roxanneardary.com/)** – June 27, 2026  
-Created the repository for Legal. Developed the foundational legal specification framework for AI governance layers and compliance architecture.
+Created the repository for Legal. Provided the legal specifications for AI governance layers and compliance architecture.
 
 - **[Add other contributors here]** – [Date]  
 [Describe contribution in one sentence]
