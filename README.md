@@ -81,6 +81,10 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   Provenance system with Legal Risk Layer for license compatibility, copyleft, and redistribution compliance.
 
+- **Open Intelligence Stack**  
+  [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
+  Open Intelligence Stack (OIS) is a modular AI governance specification that structures multi-agent systems into specialized, human-supervised modules with built-in legal analysis, evidence scoring, and full provenance tracking. It ensures every decision is transparent, auditable, and compliant by design, with accountability enforced across all layers of the system.  
+
 - **Specification Branding License (SBL)**  
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Composable, machine-readable licensing for governance within IntentMesh.
