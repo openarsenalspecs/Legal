@@ -41,7 +41,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
   Modular AGPL 3.0+ platform for simulating/analyzing economic and organizational systems. Includes Liability Intelligence Layer, Legal Reality Layer, Human Accountability framework, ownership transformation, and AI governance/simulation for transparency, resilience, and structural improvement.
 
-- **HelmOS**  
+- [**HelmOS**](https://github.com/openarsenalspecs/Legal/blob/28cbcf4e61532bc0270ac17ccd44ce8709efbf88/HelmOS.md)    
   [https://roxanneardary.com/helmos/](https://roxanneardary.com/helmos/)  
   Modular AI agent operating layer with structured governance and execution framework, intent verification, human-in-the-loop model, and immutable AI Constitution Layer for safety, auditability, and oversight.
 
