@@ -89,7 +89,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Composable, machine-readable licensing for governance within IntentMesh.
 
-- **Commons Reasoning Network**  
+- [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39606b182b5bbccd5ad14bc9449c46865be16cf9/Commons%20Reasoning%20Network.md)    
  [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
   Open-source federated intelligence infrastructure with shared reasoning and governance framework, including governance and commons layer supported by an AI Commons Foundation.
 
