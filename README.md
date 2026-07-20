@@ -105,9 +105,15 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
   Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.
 
-  ---
+---
 
-  ## License & Notice Requirements
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/legal-specifications/](https://roxanneardary.com/legal-specifications/)
+
+---
+
+## License & Notice Requirements
 
 Open Arsenal Legal Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   
 By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
