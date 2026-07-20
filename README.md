@@ -101,7 +101,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)   
   Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.
 
-- **CortexLoop**  
+- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Legal/blob/38cd200afe23fcd6e9c59ee651bbc773149cf785/CortexLoop.md)    
   [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
   Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.
 
