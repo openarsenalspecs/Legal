@@ -73,7 +73,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
   Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.
 
-- **BudgetBotics**  
+- [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed8ff3ff551fc05237f253556b99ec01238ac655/BudgetBotics.md)    
   [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
   Platform for stock buyback governance with SEC Rule 10b-18 compliance, audit trails, and regulatory enforcement.
 
