@@ -49,7 +49,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
   Modular standard for human-guided AI requiring explicit intent confirmation and evaluation of legal, regulatory, and policy constraints before actions.
 
-- **RightGuide**  
+- [**RightGuide Module Specification**](https://github.com/openarsenalspecs/Legal/blob/754c76818f15e2b592e6c07ff0cf228d8f7a4c67/RightGuide.md)    
   [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
   AI-powered legal analysis platform for jurisdiction-specific laws, issue identification, reporting guidance, and resource connections.
 
