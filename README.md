@@ -21,21 +21,29 @@ Within this structure, a Specification Branding License may be negotiated for de
 
 ## Governance & Legal Specs:
 
-- **Human Intent Governance Standard (HIGS)**  
-[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)   
-  Structured governance framework for AI systems enforcing verified human intent, policy constraints, legal compliance checks, risk assessment, and full auditability with intent engines, approval checkpoints, and explainable outputs.
-
-- **No Lock-In Compliance Standard (NLCS v1.0)**  
-  [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
-  Open modular architecture and governance framework eliminating vendor lock-in via swappable components, compliance tiers, machine-readable schemas, validation tools, and a TOS Governance Layer with legal-aware AI oversight.
-
-- **IntentMesh**  
-  [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
-  Governance and infrastructure layer connecting code, licensing, and execution to declared purpose/intent. Integrates SBL (licensing), HIGS, license conflict detection (OSICD), and monetization routing for compliant open-source ecosystems.
-
 - **AuthorityCore**  
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
   Focus-oriented AI governance and reliability framework with jurisdiction-aware reasoning, objective contracts, authority hierarchies, evidence-constrained retrieval, scope control, and human-in-the-loop oversight.
+
+- [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed8ff3ff551fc05237f253556b99ec01238ac655/BudgetBotics.md)    
+  [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
+  Platform for stock buyback governance with SEC Rule 10b-18 compliance, audit trails, and regulatory enforcement.  
+
+- **CivicRadar**  
+  [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
+  Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.
+
+- **CodexAtlas**  
+  [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)   
+  Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.
+
+- [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39606b182b5bbccd5ad14bc9449c46865be16cf9/Commons%20Reasoning%20Network.md)    
+ [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
+  Open-source federated intelligence infrastructure with shared reasoning and governance framework, including governance and commons layer supported by an AI Commons Foundation.  
+
+- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Legal/blob/38cd200afe23fcd6e9c59ee651bbc773149cf785/CortexLoop.md)    
+  [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
+  Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.
 
 - **Distributed Economic Governance System (DEGS)**  
   [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
@@ -49,17 +57,13 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
   Modular standard for human-guided AI requiring explicit intent confirmation and evaluation of legal, regulatory, and policy constraints before actions.
 
-- [**RightGuide Module Specification**](https://github.com/openarsenalspecs/Legal/blob/754c76818f15e2b592e6c07ff0cf228d8f7a4c67/RightGuide.md)    
-  [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
-  AI-powered legal analysis platform for jurisdiction-specific laws, issue identification, reporting guidance, and resource connections.
+- **Human Intent Governance Standard (HIGS)**  
+[https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)   
+  Structured governance framework for AI systems enforcing verified human intent, policy constraints, legal compliance checks, risk assessment, and full auditability with intent engines, approval checkpoints, and explainable outputs.
 
-- **StatuteMind**  
-  [https://roxanneardary.com/statuemind/](https://roxanneardary.com/statuemind/)  
-  AI compliance framework for hierarchical legal awareness (national to local) with risk scoring, lawful pathway guidance, and jurisdiction resolution.
-
-- **ProofLayer**  
-  [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
-  Continuous compliance infrastructure for SOC 2/SOC 3 with automated evidence, machine-readable endpoints, and verifiable transparency.
+- **IntentMesh**  
+  [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
+  Governance and infrastructure layer connecting code, licensing, and execution to declared purpose/intent. Integrates SBL (licensing), HIGS, license conflict detection (OSICD), and monetization routing for compliant open-source ecosystems.  
 
 - [**LexChangeFeed Module Specification**](https://github.com/openarsenalspecs/Legal/blob/fdccead709ffe45a09a160ce94ee1138e997cead/LexChangeFeed.md)    
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
@@ -69,41 +73,37 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
   Jurisdictional intelligence system translating legal rules into executable, risk-scored compensation models and smart contract frameworks.
 
-- **CivicRadar**  
-  [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
-  Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.
-
-- [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed8ff3ff551fc05237f253556b99ec01238ac655/BudgetBotics.md)    
-  [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
-  Platform for stock buyback governance with SEC Rule 10b-18 compliance, audit trails, and regulatory enforcement.
-
 - **LicenseTrace**  
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   Provenance system with Legal Risk Layer for license compatibility, copyleft, and redistribution compliance.
+
+- **No Lock-In Compliance Standard (NLCS v1.0)**  
+  [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
+  Open modular architecture and governance framework eliminating vendor lock-in via swappable components, compliance tiers, machine-readable schemas, validation tools, and a TOS Governance Layer with legal-aware AI oversight.
 
 - **Open Intelligence Stack**  
   [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
   Open Intelligence Stack (OIS) is a modular AI governance specification that structures multi-agent systems into specialized, human-supervised modules with built-in legal analysis, evidence scoring, and full provenance tracking. It ensures every decision is transparent, auditable, and compliant by design, with accountability enforced across all layers of the system.  
 
-- **Specification Branding License (SBL)**  
-  [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
-  Composable, machine-readable licensing for governance within IntentMesh.
-
-- [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39606b182b5bbccd5ad14bc9449c46865be16cf9/Commons%20Reasoning%20Network.md)    
- [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
-  Open-source federated intelligence infrastructure with shared reasoning and governance framework, including governance and commons layer supported by an AI Commons Foundation.
+- **ProofLayer**  
+  [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
+  Continuous compliance infrastructure for SOC 2/SOC 3 with automated evidence, machine-readable endpoints, and verifiable transparency.
 
 - **PublicEnforcer**  
  [https://roxanneardary.com/publicenforcer/](https://roxanneardary.com/publicenforcer/)    
   Open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.
 
-- **CodexAtlas**  
-  [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)   
-  Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.
+- [**RightGuide Module Specification**](https://github.com/openarsenalspecs/Legal/blob/754c76818f15e2b592e6c07ff0cf228d8f7a4c67/RightGuide.md)    
+  [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
+  AI-powered legal analysis platform for jurisdiction-specific laws, issue identification, reporting guidance, and resource connections.
 
-- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Legal/blob/38cd200afe23fcd6e9c59ee651bbc773149cf785/CortexLoop.md)    
-  [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
-  Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.
+- **Specification Branding License (SBL)**  
+  [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
+  Composable, machine-readable licensing for governance within IntentMesh.  
+
+- **StatuteMind**  
+  [https://roxanneardary.com/statuemind/](https://roxanneardary.com/statuemind/)  
+  AI compliance framework for hierarchical legal awareness (national to local) with risk scoring, lawful pathway guidance, and jurisdiction resolution.  
 
 ---
 
