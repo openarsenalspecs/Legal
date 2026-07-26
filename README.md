@@ -62,7 +62,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   Continuous compliance infrastructure for SOC 2/SOC 3 with automated evidence, machine-readable endpoints, and verifiable transparency.
 
 - **LexChangeFeed**  
-  [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexara/)  
+  [https://roxanneardary.com/lexchangefeed/]([https://roxanneardary.com/lexara/](https://roxanneardary.com/lexchangefeed/))  
   Legal intelligence infrastructure for versioning/tracking evolving copyright law with semantic search, jurisdictional awareness, and change notifications.
 
 - **Lexara**  
