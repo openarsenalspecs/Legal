@@ -103,7 +103,11 @@ Within this structure, a Specification Branding License may be negotiated for de
 
 - **StatuteMind**  
   [https://roxanneardary.com/statuemind/](https://roxanneardary.com/statuemind/)  
-  AI compliance framework for hierarchical legal awareness (national to local) with risk scoring, lawful pathway guidance, and jurisdiction resolution.  
+  AI compliance framework for hierarchical legal awareness (national to local) with risk scoring, lawful pathway guidance, and jurisdiction resolution.
+
+- **VeritasCode**  
+  [https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
+  VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes constitutions, statutes, regulations, ordinances, and case law across every jurisdiction through transparent, evidence-based retrieval. It identifies potential legal conflicts, constitutional questions, and jurisdictional inconsistencies while providing complete citations and explainable analysis to support informed human review.
 
 ---
 
