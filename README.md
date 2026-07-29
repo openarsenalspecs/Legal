@@ -89,7 +89,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
   Continuous compliance infrastructure for SOC 2/SOC 3 with automated evidence, machine-readable endpoints, and verifiable transparency.
 
-- **PublicEnforcer**  
+- [**PublicEnforcer Module Specification**](https://github.com/openarsenalspecs/Legal/blob/c26395b2e9aa43b0d4912f2deb9387cb97c2ecce/PublicEnforcer.md)    
  [https://roxanneardary.com/publicenforcer/](https://roxanneardary.com/publicenforcer/)    
   Open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.
 
