@@ -69,7 +69,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
   Legal intelligence infrastructure for versioning/tracking evolving copyright law with semantic search, jurisdictional awareness, and change notifications.
 
-- **Lexara**  
+- [**Lexara Module Specification**](https://github.com/openarsenalspecs/Legal/blob/139c82b401cc8e06613da01e27dd8803cb70054d/Lexara.md)    
   [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
   Jurisdictional intelligence system translating legal rules into executable, risk-scored compensation models and smart contract frameworks.
 
