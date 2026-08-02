@@ -61,7 +61,7 @@ Within this structure, a Specification Branding License may be negotiated for de
 [https://roxanneardary.com/human-intent-governance-standard/](https://roxanneardary.com/human-intent-governance-standard/)   
   Structured governance framework for AI systems enforcing verified human intent, policy constraints, legal compliance checks, risk assessment, and full auditability with intent engines, approval checkpoints, and explainable outputs.
 
-- **IntentMesh**  
+- [**IntentMesh Module Specification**](https://github.com/openarsenalspecs/Legal/blob/3ebc2ab31f3b0e825ae5f17f846dbcbca7cf0979/IntentMesh.md)    
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Governance and infrastructure layer connecting code, licensing, and execution to declared purpose/intent. Integrates SBL (licensing), HIGS, license conflict detection (OSICD), and monetization routing for compliant open-source ecosystems.  
 
