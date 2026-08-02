@@ -73,7 +73,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
   Jurisdictional intelligence system translating legal rules into executable, risk-scored compensation models and smart contract frameworks.
 
-- **LicenseTrace**  
+- [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Legal/blob/5d6ce59882857f4a39ece8b7cb65a218ce9f5cc0/LicenseTrace.md)    
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   Provenance system with Legal Risk Layer for license compatibility, copyleft, and redistribution compliance.
 
