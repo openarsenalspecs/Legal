@@ -53,7 +53,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/helmos/](https://roxanneardary.com/helmos/)  
   Modular AI agent operating layer with structured governance and execution framework, intent verification, human-in-the-loop model, and immutable AI Constitution Layer for safety, auditability, and oversight.
 
-- **Human Decision Specification (HDS)**  
+- [**Human Decision Specification**](https://github.com/openarsenalspecs/Legal/blob/f96312e9c63920397456a4e9bfd0ef2041694e7d/Human%20Decision%20Specification.md)    
   [https://roxanneardary.com/human-decision-specification/](https://roxanneardary.com/human-decision-specification/)  
   Modular standard for human-guided AI requiring explicit intent confirmation and evaluation of legal, regulatory, and policy constraints before actions.
 
