@@ -33,7 +33,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
   Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.
 
-- **CodexAtlas**  
+- [**CodexAtlas Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39ee7e3d840f7c1be3fef2c558be9d26bf6b551c/CodexAtlas.md)    
   [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)   
   Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.
 
