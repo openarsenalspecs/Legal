@@ -85,13 +85,13 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
   Open Intelligence Stack (OIS) is a modular AI governance specification that structures multi-agent systems into specialized, human-supervised modules with built-in legal analysis, evidence scoring, and full provenance tracking. It ensures every decision is transparent, auditable, and compliant by design, with accountability enforced across all layers of the system.  
 
-- **ProofLayer**  
+- [**ProofLayer Module Specification**](https://github.com/openarsenalspecs/Legal/blob/dad1b7f44f123de3a9fc0f85506d81540f8e6901/ProofLayer.md)    
   [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
-  Continuous compliance infrastructure for SOC 2/SOC 3 with automated evidence, machine-readable endpoints, and verifiable transparency.
+  Continuous compliance infrastructure for SOC 2/SOC 3 with automated evidence, machine-readable endpoints, and verifiable transparency.  
 
 - [**PublicEnforcer Module Specification**](https://github.com/openarsenalspecs/Legal/blob/c26395b2e9aa43b0d4912f2deb9387cb97c2ecce/PublicEnforcer.md)    
  [https://roxanneardary.com/publicenforcer/](https://roxanneardary.com/publicenforcer/)    
-  Open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.
+  Open-source transparency platform that tracks publicly available federal enforcement data, case activity, financial penalties, and outcomes through searchable, source-linked timelines and analytics.  
 
 - [**RightGuide Module Specification**](https://github.com/openarsenalspecs/Legal/blob/754c76818f15e2b592e6c07ff0cf228d8f7a4c67/RightGuide.md)    
   [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
