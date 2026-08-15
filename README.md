@@ -25,7 +25,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
   Focus-oriented AI governance and reliability framework with jurisdiction-aware reasoning, objective contracts, authority hierarchies, evidence-constrained retrieval, scope control, and human-in-the-loop oversight.
 
-- [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed8ff3ff551fc05237f253556b99ec01238ac655/BudgetBotics.md)    
+- [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Legal/blob/1ac3cae17f4706437a042541d3c1f3e04e267c6d/BudgetBotics.md)  
   [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
   Platform for stock buyback governance with SEC Rule 10b-18 compliance, audit trails, and regulatory enforcement.  
 
