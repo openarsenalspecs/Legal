@@ -101,7 +101,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Composable, machine-readable licensing for governance within IntentMesh.  
 
-- [**StatuteMind Module Specification**](https://github.com/openarsenalspecs/Legal/blob/042728295cdb3123a334a5bc90c1db1349215849/StatuteMind.md)    
+- [**StatuteMind Module Specification**](https://github.com/openarsenalspecs/Legal/blob/9f0250ed2d7676c4dfe5b19f0a13751fdf064249/StatuteMind.md)  
   [https://roxanneardary.com/statuemind/](https://roxanneardary.com/statuemind/)  
   AI compliance framework for hierarchical legal awareness (national to local) with risk scoring, lawful pathway guidance, and jurisdiction resolution.  
 
