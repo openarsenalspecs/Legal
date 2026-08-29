@@ -1,6 +1,8 @@
 # StatuteMind Specification
+**Where Law Meets AI Precision**
+- HTML Mirror:  [https://roxanneardary.com/statutemind-specification/](https://roxanneardary.com/statutemind-specification/)  
 
-**Tagline:** Where Law Meets AI Precision
+---
 
 ## Overview
 
@@ -402,8 +404,9 @@ To provide every AI system with a transparent, jurisdiction-aware legal intellig
 
 ---
 
-**StatuteMind**  
-**Where Law Meets AI Precision**
+## ⚖ Disclaimer
+
+StatuteMind is a **compliance-assist tool**, not a substitute for legal advice. Always consult a licensed attorney for legal decisions.  
 
 ---
 
