@@ -25,7 +25,7 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
   Focus-oriented AI governance and reliability framework with jurisdiction-aware reasoning, objective contracts, authority hierarchies, evidence-constrained retrieval, scope control, and human-in-the-loop oversight.
 
-- [**Axis Juris Module Specification**]  
+- [**Axis Juris Module Specification**](https://github.com/openarsenalspecs/Legal/blob/fc7027cdea68ae631c726c789a954aa84b075f69/Axis%20Juris.md)    
 [https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)  
 Axis Juris is an open-source, modular AI legal intelligence platform focused on U.S. patent law, patent applications, case law, and jurisdiction-aware legal research. It connects authoritative legal sources with AI analysis, continuously tracks changes in law and precedent, and alerts users to potential legal conflicts affecting their publications, applications, and intellectual property.  
 
