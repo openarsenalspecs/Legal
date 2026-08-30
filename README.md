@@ -25,6 +25,10 @@ Within this structure, a Specification Branding License may be negotiated for de
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
   Focus-oriented AI governance and reliability framework with jurisdiction-aware reasoning, objective contracts, authority hierarchies, evidence-constrained retrieval, scope control, and human-in-the-loop oversight.
 
+- [**Axis Juris Module Specification**]  
+[https://roxanneardary.com/axisjuris/](https://roxanneardary.com/axisjuris/)  
+Axis Juris is an open-source, modular AI legal intelligence platform focused on U.S. patent law, patent applications, case law, and jurisdiction-aware legal research. It connects authoritative legal sources with AI analysis, continuously tracks changes in law and precedent, and alerts users to potential legal conflicts affecting their publications, applications, and intellectual property.  
+
 - [**BudgetBotics Module Specification**](https://github.com/openarsenalspecs/Legal/blob/1ac3cae17f4706437a042541d3c1f3e04e267c6d/BudgetBotics.md)  
   [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
   Platform for stock buyback governance with SEC Rule 10b-18 compliance, audit trails, and regulatory enforcement.  
