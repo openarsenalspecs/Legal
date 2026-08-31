@@ -49,9 +49,9 @@ ClaimScout is an open-source AI-powered intellectual property monitoring system 
 [https://roxanneardary.com/codeclear/](https://roxanneardary.com/codeclear/)  
 CodeClear is an open source AI-powered civic intelligence platform designed to identify which laws remain in effect, detect contradictions, partial nullifications, superseded provisions, and antiquated governance. It connects legal history, legislative changes, judicial decisions, government entities, and funding records to create a continuously updated, evidence-backed view of what is legally and financially active.  
 
-- [**CodexAtlas Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39ee7e3d840f7c1be3fef2c558be9d26bf6b551c/CodexAtlas.md)    
+- [**CodexAtlas Module Specification**](https://github.com/openarsenalspecs/Legal/blob/a0f105852ca33ce68f57840da0aca2abcda69075/CodexAtlas.md)  
   [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)   
-  Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.
+  Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.  
 
 - [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39606b182b5bbccd5ad14bc9449c46865be16cf9/Commons%20Reasoning%20Network.md)    
  [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
