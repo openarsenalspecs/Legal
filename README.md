@@ -141,9 +141,9 @@ SecurePath is an open-source AI safety and regulatory assurance framework for ev
   [https://roxanneardary.com/statuemind/](https://roxanneardary.com/statuemind/)  
   AI compliance framework for hierarchical legal awareness (national to local) with risk scoring, lawful pathway guidance, and jurisdiction resolution.  
 
-- **VeritasCode**  
+- [**VeritasCode Module Specification**](https://github.com/openarsenalspecs/Legal/blob/fa72e5e1f98e7e20e8ef9285ed89daca958d1d30/VeritasCode.md)    
   [https://roxanneardary.com/veritascode/](https://roxanneardary.com/veritascode/)  
-  VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes constitutions, statutes, regulations, ordinances, and case law across every jurisdiction through transparent, evidence-based retrieval. It identifies potential legal conflicts, constitutional questions, and jurisdictional inconsistencies while providing complete citations and explainable analysis to support informed human review.
+  VeritasCode is a modular, retrieval-first, open-source AI platform that analyzes constitutions, statutes, regulations, ordinances, and case law across every jurisdiction through transparent, evidence-based retrieval. It identifies potential legal conflicts, constitutional questions, and jurisdictional inconsistencies while providing complete citations and explainable analysis to support informed human review.  
 
 ---
 
