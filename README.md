@@ -129,6 +129,10 @@ OpenGrievance is an open-source, privacy-first platform for securely documenting
 [https://roxanneardary.com/rulea/](https://roxanneardary.com/rulea/)  
 Rulea is an open-source AI compliance layer that integrates into websites, applications, and platforms to provide users with real-time Terms of Service guidance before conflicts become violations. It explains applicable policies, identifies potential conflicts, and recommends changes that empower users to understand, act, and comply without unnecessary bans or suspensions.  
 
+- [**SecurePath Module Specification**](https://github.com/openarsenalspecs/Legal/blob/adc6c2a2d1d63c0bc6691f4d56d20c7c607aeabe/SecurePath.md)  
+[https://roxanneardary.com/securepath/](https://roxanneardary.com/securepath/)  
+SecurePath is an open-source AI safety and regulatory assurance framework for evaluating, monitoring, and governing AI systems throughout their lifecycle. It combines red-team testing, compliance assessment, multi-agent analysis, risk management, historical tracking, audit evidence, and human oversight in a modular architecture.  
+
 - **Specification Branding License (SBL)**  
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Composable, machine-readable licensing for governance within IntentMesh.  
