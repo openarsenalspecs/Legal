@@ -125,6 +125,10 @@ OpenGrievance is an open-source, privacy-first platform for securely documenting
   [https://roxanneardary.com/rightguide/](https://roxanneardary.com/rightguide/)  
   AI-powered legal analysis platform for jurisdiction-specific laws, issue identification, reporting guidance, and resource connections.
 
+- [**Rulea Module Specification**](https://github.com/openarsenalspecs/Legal/blob/90380a29d10e6f4c0fb65a11741ceec553acb365/Rulea.md)  
+[https://roxanneardary.com/rulea/](https://roxanneardary.com/rulea/)  
+Rulea is an open-source AI compliance layer that integrates into websites, applications, and platforms to provide users with real-time Terms of Service guidance before conflicts become violations. It explains applicable policies, identifies potential conflicts, and recommends changes that empower users to understand, act, and comply without unnecessary bans or suspensions.  
+
 - **Specification Branding License (SBL)**  
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Composable, machine-readable licensing for governance within IntentMesh.  
