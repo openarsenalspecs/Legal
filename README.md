@@ -93,6 +93,10 @@ CreatorGrid is an open source AI assistant specification built to help creators 
   [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
   Jurisdictional intelligence system translating legal rules into executable, risk-scored compensation models and smart contract frameworks.
 
+- [**License Guardian Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/b92693ac892e7bb7fb138750ee7047dedf5315cd/License%20Guardian%20Network.md)  
+[https://roxanneardary.com/license-guardian-network/](https://roxanneardary.com/license-guardian-network/)  
+License Guardian Network is a modular AI-powered system that connects specification usage with provenance, licensing, attribution, and compliance across websites, networks, and Git repositories. It uses semantic likeness detection, SBL verification, evidence collection, and human-reviewed workflows to help organizations establish, monitor, and protect the licensing relationships surrounding their specifications.  
+
 - [**LicenseTrace Module Specification**](https://github.com/openarsenalspecs/Legal/blob/5d6ce59882857f4a39ece8b7cb65a218ce9f5cc0/LicenseTrace.md)    
   [https://roxanneardary.com/licensetrace/](https://roxanneardary.com/licensetrace/)  
   Provenance system with Legal Risk Layer for license compatibility, copyleft, and redistribution compliance.
