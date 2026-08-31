@@ -41,6 +41,10 @@ Axis Juris is an open-source, modular AI legal intelligence platform focused on 
   [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
   Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.
 
+- [**ClaimScout Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ae1e67db90fc583ec7bead939a6011b997ef4e7f/ClaimScout.md)  
+[https://roxanneardary.com/claimscout/](https://roxanneardary.com/claimscout/)  
+ClaimScout is an open-source AI-powered intellectual property monitoring system that helps creators discover potential unauthorized use of their copyrighted works across public repositories, websites, and social platforms. It analyzes content matches, ownership and provenance records, licenses, notices, timelines, and related sources to organize evidence and generate actionable reports for human review.  
+
 - [**CodeClear Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed0a1cee6d2dd9c84cbeaa1c75d0c8275aa3ac21/CodeClear.md)  
 [https://roxanneardary.com/codeclear/](https://roxanneardary.com/codeclear/)  
 CodeClear is an open source AI-powered civic intelligence platform designed to identify which laws remain in effect, detect contradictions, partial nullifications, superseded provisions, and antiquated governance. It connects legal history, legislative changes, judicial decisions, government entities, and funding records to create a continuously updated, evidence-backed view of what is legally and financially active.  
