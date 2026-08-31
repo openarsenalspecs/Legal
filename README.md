@@ -57,6 +57,10 @@ CodeClear is an open source AI-powered civic intelligence platform designed to i
   [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
   Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.
 
+- [**CreatorGrid Module Specification**](https://github.com/openarsenalspecs/Legal/blob/a4d9f147c8154a515c7821e2e025db44420fb42e/CreatorGrid.md)  
+[https://roxanneardary.com/creatorgrid/](https://roxanneardary.com/creatorgrid/)  
+CreatorGrid is an open source AI assistant specification built to help creators understand, protect, and manage their rights across contracts, copyright, licensing, jurisdiction, compensation, and artificial intelligence. It analyzes legal and contractual structures for potential protection gaps, jurisdictional conflicts, circumvention pathways, and emerging loopholes while keeping final decisions under creator control.  
+
 - **Distributed Economic Governance System (DEGS)**  
   [https://roxanneardary.com/distributed-economic-governance-system/](https://roxanneardary.com/distributed-economic-governance-system/)  
   Modular AGPL 3.0+ platform for simulating/analyzing economic and organizational systems. Includes Liability Intelligence Layer, Legal Reality Layer, Human Accountability framework, ownership transformation, and AI governance/simulation for transparency, resilience, and structural improvement.
