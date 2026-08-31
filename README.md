@@ -85,9 +85,9 @@ CreatorGrid is an open source AI assistant specification built to help creators 
   [https://roxanneardary.com/intentmesh/](https://roxanneardary.com/intentmesh/)  
   Governance and infrastructure layer connecting code, licensing, and execution to declared purpose/intent. Integrates SBL (licensing), HIGS, license conflict detection (OSICD), and monetization routing for compliant open-source ecosystems.  
 
-- [**LexChangeFeed Module Specification**](https://github.com/openarsenalspecs/Legal/blob/fdccead709ffe45a09a160ce94ee1138e997cead/LexChangeFeed.md)    
+- [**LexChangeFeed Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed91fb590b0875a1068ce9c195cbd2f61df1b640/LexChangeFeed.md)     
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
-  Legal intelligence infrastructure for versioning/tracking evolving copyright law with semantic search, jurisdictional awareness, and change notifications.
+  Legal intelligence infrastructure for versioning/tracking evolving copyright law with semantic search, jurisdictional awareness, and change notifications.  
 
 - [**Lexara Module Specification**](https://github.com/openarsenalspecs/Legal/blob/139c82b401cc8e06613da01e27dd8803cb70054d/Lexara.md)    
   [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
