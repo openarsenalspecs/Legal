@@ -1,6 +1,8 @@
 # CodexAtlas
-
 **The world’s legal systems, connected.**
+- HTML Mirror:  [https://roxanneardary.com/codexatlas-specification/](https://roxanneardary.com/codexatlas-specification/)  
+
+---
 
 CodexAtlas is an open-source hybrid AI platform for building a global legal knowledge graph and analyzing relationships between laws, cases, courts, legal arguments, doctrines, and institutions. It combines structured legal knowledge with internal predictive reasoning while presenting users with transparent, public-facing summaries.
 
@@ -822,7 +824,6 @@ Users are responsible for determining whether their use of CodexAtlas complies w
   - [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)
 
 ---
-
 
 ## License & Notice Requirements
 
