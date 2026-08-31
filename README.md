@@ -105,6 +105,10 @@ License Guardian Network is a modular AI-powered system that connects specificat
   [https://roxanneardary.com/no-lock-in-compliance-standard/](https://roxanneardary.com/no-lock-in-compliance-standard/)  
   Open modular architecture and governance framework eliminating vendor lock-in via swappable components, compliance tiers, machine-readable schemas, validation tools, and a TOS Governance Layer with legal-aware AI oversight.
 
+- [**OpenGrievance Module Specification**](https://github.com/openarsenalspecs/Legal/blob/962a8a40f8e6b21ef0afa8dd7b90265698cee2ee/OpenGrievance.md)  
+[https://roxanneardary.com/opengrievance/](https://roxanneardary.com/opengrievance/)  
+OpenGrievance is an open-source, privacy-first platform for securely documenting, verifying, and analyzing consumer grievances involving companies, products, services, contracts, and advertising. It preserves evidence, identifies patterns of alleged misconduct, and provides structured intelligence to support consumers, attorneys, journalists, and potential class action investigations.  
+
 - [**Open Intelligence Stack Specification**](https://github.com/openarsenalspecs/Legal/blob/14be65fabc2fff49e9da7e6ff40e30ed3e09845f/Open%20Intelligence%20Stack.md)    
   [https://roxanneardary.com/open-intelligence-stack/](https://roxanneardary.com/open-intelligence-stack/)  
   Open Intelligence Stack (OIS) is a modular AI governance specification that structures multi-agent systems into specialized, human-supervised modules with built-in legal analysis, evidence scoring, and full provenance tracking. It ensures every decision is transparent, auditable, and compliant by design, with accountability enforced across all layers of the system.  
