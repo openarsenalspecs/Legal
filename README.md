@@ -53,7 +53,7 @@ CodeClear is an open source AI-powered civic intelligence platform designed to i
   [https://roxanneardary.com/codexatlas/](https://roxanneardary.com/codexatlas/)   
   Open-source legal intelligence platform designed to map and connect the world's legal systems into a unified, queryable structure.  
 
-- [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/39606b182b5bbccd5ad14bc9449c46865be16cf9/Commons%20Reasoning%20Network.md)    
+- [**Commons Reasoning Network Module Specification**](https://github.com/openarsenalspecs/Legal/blob/560a5dd36341320d7bd1417b91afa501857487e9/Commons%20Reasoning%20Network.md)      
  [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
   Open-source federated intelligence infrastructure with shared reasoning and governance framework, including governance and commons layer supported by an AI Commons Foundation.  
 
