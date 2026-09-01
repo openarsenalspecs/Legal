@@ -37,9 +37,9 @@ Axis Juris is an open-source, modular AI legal intelligence platform focused on 
   [https://roxanneardary.com/budgetbotics/](https://roxanneardary.com/budgetbotics/)  
   Platform for stock buyback governance with SEC Rule 10b-18 compliance, audit trails, and regulatory enforcement.  
 
-- [**CivicRadar Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ceaa7ef359e8c233353ee9939cca81e7ca9019f6/CivicRadar.md)    
+- [**CivicRadar Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ddc5dd62cb4c6a4d647c97d1455c584f14cc9c2e/CivicRadar.md)  
   [https://roxanneardary.com/civicradar/](https://roxanneardary.com/civicradar/)  
-  Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.
+  Legislative intelligence platform tracking/analyzing proposed laws with conflict detection and impact modeling.  
 
 - [**ClaimScout Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ae1e67db90fc583ec7bead939a6011b997ef4e7f/ClaimScout.md)  
 [https://roxanneardary.com/claimscout/](https://roxanneardary.com/claimscout/)  
