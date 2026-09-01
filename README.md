@@ -21,9 +21,9 @@ Within this structure, a Specification Branding License may be negotiated for de
 
 ## Governance & Legal Specs:
 
-- [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Legal/blob/69be1195fd24df5433461b6573854cee7b7c606c/AuthorityCore.md)    
+- [**AuthorityCore Module Specification**](https://github.com/openarsenalspecs/Legal/blob/e0999621c9f95ea90966c206cad00058d23da82c/AuthorityCore.md)  
   [https://roxanneardary.com/authoritycore/](https://roxanneardary.com/authoritycore/)  
-  Focus-oriented AI governance and reliability framework with jurisdiction-aware reasoning, objective contracts, authority hierarchies, evidence-constrained retrieval, scope control, and human-in-the-loop oversight.
+  Focus-oriented AI governance and reliability framework with jurisdiction-aware reasoning, objective contracts, authority hierarchies, evidence-constrained retrieval, scope control, and human-in-the-loop oversight.  
 
 - [**AuthTrace AI Module Specification**](https://github.com/openarsenalspecs/Legal/blob/2f68f827a6d3ca0a5873e4bdca881fe9b116196f/AuthTrace%20AI.md)  
 [https://roxanneardary.com/authtrace-ai/](https://roxanneardary.com/authtrace-ai/)  
