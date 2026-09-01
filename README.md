@@ -57,9 +57,9 @@ CodeClear is an open source AI-powered civic intelligence platform designed to i
  [https://roxanneardary.com/commons-reasoning-network/](https://roxanneardary.com/commons-reasoning-network/)  
   Open-source federated intelligence infrastructure with shared reasoning and governance framework, including governance and commons layer supported by an AI Commons Foundation.  
 
-- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Legal/blob/38cd200afe23fcd6e9c59ee651bbc773149cf785/CortexLoop.md)    
+- [**CortexLoop Module Specification**](https://github.com/openarsenalspecs/Legal/blob/eabc0ce83c851abd0ff2d4604d274685a4ddcdef/CortexLoop.md)  
   [https://roxanneardary.com/cortexloop/](https://roxanneardary.com/cortexloop/)  
-  Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.
+  Human-in-the-loop AI orchestration system that enforces transparent, structured, and auditable reasoning with full user control over every decision and execution step.  
 
 - [**CreatorGrid Module Specification**](https://github.com/openarsenalspecs/Legal/blob/a4d9f147c8154a515c7821e2e025db44420fb42e/CreatorGrid.md)  
 [https://roxanneardary.com/creatorgrid/](https://roxanneardary.com/creatorgrid/)  
