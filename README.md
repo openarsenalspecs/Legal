@@ -151,6 +151,8 @@ SecurePath is an open-source AI safety and regulatory assurance framework for ev
 
 Buy the Basket: [https://roxanneardary.com/legal-specifications/](https://roxanneardary.com/legal-specifications/)
 
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
+
 ---
 
 ## License & Notice Requirements
