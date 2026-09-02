@@ -87,7 +87,11 @@ CreatorGrid is an open source AI assistant specification built to help creators 
 
 - [**LexChangeFeed Module Specification**](https://github.com/openarsenalspecs/Legal/blob/ed91fb590b0875a1068ce9c195cbd2f61df1b640/LexChangeFeed.md)     
   [https://roxanneardary.com/lexchangefeed/](https://roxanneardary.com/lexchangefeed/)  
-  Legal intelligence infrastructure for versioning/tracking evolving copyright law with semantic search, jurisdictional awareness, and change notifications.  
+  Legal intelligence infrastructure for versioning/tracking evolving copyright law with semantic search, jurisdictional awareness, and change notifications.
+
+- [**LexCrosscheck Module Specification**](https://github.com/openarsenalspecs/Legal/blob/992f39de98b855a3d21b0fd7f5d1a7dc3d1478a5/LexCrosscheck.md)  
+[https://roxanneardary.com/lexcrosscheck/](https://roxanneardary.com/lexcrosscheck/)  
+LexCrosscheck is an open source legal research and retrieval specification designed to verify legal authorities, strengthen citation accuracy, and identify conflicts across jurisdictions. It provides a structured framework for source-grounded research, legal analysis, case briefs, legal writing, and human-reviewed decision-making.  
 
 - [**Lexara Module Specification**](https://github.com/openarsenalspecs/Legal/blob/139c82b401cc8e06613da01e27dd8803cb70054d/Lexara.md)    
   [https://roxanneardary.com/lexara/](https://roxanneardary.com/lexara/)  
